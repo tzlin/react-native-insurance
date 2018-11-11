@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/tzl/Documents/web/native/insurance/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tzl/Documents/web/native/insurance/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tzl/Documents/web/native/insurance/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/tzl/Documents/web/native/insurance/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
